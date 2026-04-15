@@ -156,7 +156,7 @@ source: raw/源文件名.md   # 仅 source 类型需要
 
 欢迎 PR 和 Issue！
 
-本项目由 [李佩琪 (Artemis)](https://github.com/KKirikaze) 与 OpenClaw AI 团队共同开发。
+本项目由 [Artemis](https://github.com/KKirikaze) 与 OpenClaw AI 团队共同开发。
 
 ---
 
